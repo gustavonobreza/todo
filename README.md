@@ -4,10 +4,6 @@
 
 This project is intended to be used with the latest Active LTS release of [Node.js][nodejs].
 
-### Use as a repository template
-
-To start, just click the **[Use template][repo-template-action]** link (or the green button). Start adding your code in the `src` and unit tests in the `__tests__` directories.
-
 ### Clone repository
 
 To clone the repository, use the following commands:
